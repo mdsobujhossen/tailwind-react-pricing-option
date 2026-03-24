@@ -40,12 +40,12 @@ const NavBar = () => {
                 <ul className={`
                     md:hidden absolute duration-1000
                     ${open? 'top-6' : '-top-40'} 
-                    bg-amber-200 `}>
+                    bg-amber-200 py-3`}>
                     {links}
                 </ul>
                 <h3>My nav</h3>
             </span>
-            <ul className='hidden md:flex gap-3'>
+            <ul className='hidden md:flex gap-3 '>
                 {links}
             </ul>
             {/* <ul className='flex gap-3'>

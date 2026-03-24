@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1500,
+    "duration": "month",
+    "description": "Good for beginners starting their fitness journey",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 hour daily access",
+      "No trainer support",
+      "Free warm-up area",
+      "Basic fitness assessment (1 time)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 2500,
+    "duration": "month",
+    "description": "Perfect for regular gym users",
+    "features": [
+      "Full gym access",
+      "Locker & shower facility",
+      "2 hours daily access",
+      "Basic trainer guidance",
+      "Access to cardio zone",
+      "Weekly progress tracking"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 4000,
+    "duration": "month",
+    "description": "Best for serious fitness lovers",
+    "features": [
+      "Unlimited gym access",
+      "Personal trainer (8 sessions/month)",
+      "Diet plan guidance",
+      "Access to group classes",
+      "Body composition analysis",
+      "Priority support"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pro Plan",
+    "price": 6000,
+    "duration": "month",
+    "description": "Advanced training and support",
+    "features": [
+      "Unlimited access",
+      "Dedicated personal trainer",
+      "Custom workout & diet plan",
+      "All group classes included",
+      "Supplement guidance",
+      "Monthly fitness report"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elite Plan",
+    "price": 9000,
+    "duration": "month",
+    "description": "All-in-one premium fitness experience",
+    "features": [
+      "24/7 gym access",
+      "Personal trainer (daily sessions)",
+      "Nutrition & supplement guidance",
+      "VIP locker & lounge access",
+      "Steam & sauna access",
+      "Injury prevention support",
+      "Priority booking for classes"
+    ]
+  }
+]
